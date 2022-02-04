@@ -130,7 +130,6 @@
 }
 
 .productBox{
-    height:823px;
     width:calc(33.3% - 60px);
 }
 
@@ -309,6 +308,15 @@
     }
     .footer .footerLinks, .footer .socialLink{
         font-size:14px
+    }
+    .productImage{
+        height: 423px;
+    }
+    .productWrapper{
+        padding: 0 30px;
+    }
+    .headerOptions{
+        width: calc(100% - 60px);
     }
     
 }
