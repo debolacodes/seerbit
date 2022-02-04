@@ -148,7 +148,8 @@
 .productImage{
     height: 723px;
     width:100%;
-    background: #0cc;
+    /* background: #0cc; */
+    background: #ccc;
     background-position: center;
 }
 

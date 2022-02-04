@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 
 import {BsCart2, BsCartFill, BsHeart, BsHeartFill} from 'react-icons/bs'
 
+
 export default function ProductList(props) {
   const [items, setItems] = useState([
     {
